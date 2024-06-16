@@ -1,2 +1,2 @@
 #!/bin/bash
-sh -c 'chmod u+x,g+x,o+r "example.txt"\necho "Permissions for '\''example.txt'\'' have been updated to:"\nls -l "example.txt"'
+sh -c 'chmod u+x,g+x,o+r "example.txt"\necho "Permissions for '\''example.txt'\'' have been updated to:"\nls -l "example.txt"\nstat -c "%A" "example.txt"'
