@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {"$whoami"}
+echo $permission permission =$(ls -l)
