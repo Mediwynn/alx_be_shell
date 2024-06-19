@@ -1,2 +1,4 @@
 #!/bin/bash
+export PATH=$PATH:/shell_permissions/alx_be_shell
+source ~/.bashrc
 whoami
