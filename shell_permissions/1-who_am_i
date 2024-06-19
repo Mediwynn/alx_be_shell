@@ -1,4 +1,4 @@
 #!/bin/bash
-export PATH=$PATH:/shell_permissions/alx_be_shell
+export PATH=$PATH:https://github.com/Mediwynn/alx_be_shell
 source ~/.bashrc
 whoami
