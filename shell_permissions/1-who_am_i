@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/github.com/Mediwynn/alx_be_shell/tree/31b542ba85c5a4e0e95f00040de7b3e67d5e0fa6/shell_permissions | source ~/.bashrc | whoami
+whoami
